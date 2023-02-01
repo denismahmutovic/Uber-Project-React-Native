@@ -6,7 +6,7 @@ import NavOptions from "../components/NavOptions";
 const HomeScreen = () => {
   return (
     <View>
-      <SafeAreaView style={tw`bg-white h-full`}>
+      <SafeAreaView style={tw`bg-white `}>
         <View>
           <Image
             style={{
